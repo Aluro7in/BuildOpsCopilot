@@ -327,4 +327,4 @@ If a repository does not contain a readable `package.json` or lacks a Node/TypeS
 
 ## License
 
-This repository  MIT license 
+This repository comes under MIT license 
