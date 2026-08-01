@@ -327,4 +327,4 @@ If a repository does not contain a readable `package.json` or lacks a Node/TypeS
 
 ## License
 
-This repository MIT license file yet. Add a `LICENSE` in the project root to clarify reuse and contribution terms.
+This repository  MIT license 
