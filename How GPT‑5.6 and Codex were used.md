@@ -26,5 +26,4 @@ Most of this work is captured in the main Codex thread whose `/feedback` Session
   - Suggests concrete test commands (e.g., `npm test`, `vitest`) to run inside the sandbox workspace.  
   - Works together with the backend’s workspace layer to apply patches, run tests, and surface results back to the frontend.
 
-Together, GPT‑5.6 and Codex behave like an AI maintenance engineer: GPT‑5.6 plans and explains the mission, while Codex writes and executes the actual code changes and tests.
- but this all thing is giving by my god . 
+Together, GPT‑5.6 and Codex behave like an AI maintenance engineer: GPT‑5.6 plans and explains the mission, while Codex writes and executes the actual code changes and tests. 
