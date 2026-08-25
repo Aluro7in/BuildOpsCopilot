@@ -27,4 +27,4 @@ Most of this work is captured in the main Codex thread whose `/feedback` Session
   - Works together with the backend’s workspace layer to apply patches, run tests, and surface results back to the frontend.
 
 Together, GPT‑5.6 and Codex behave like an AI maintenance engineer: GPT‑5.6 plans and explains the mission, while Codex writes and executes the actual code changes and tests.
-chatgpt help me alot to make this project, btu with out my instructions they not perform any task and they required, but this all thing is giving by my god . 
+, btu with out my instructions they not perform any task and they required, but this all thing is giving by my god . 
